@@ -1,0 +1,14 @@
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.Main.resources
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\u2013\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\u2013\source\repos\Chess\Chess\bin\Debug\Chess.exe.manifest
+C:\Users\u2013\source\repos\Chess\Chess\bin\Debug\Chess.application
+C:\Users\u2013\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\u2013\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.exe.manifest
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.application
+C:\Users\u2013\source\repos\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
