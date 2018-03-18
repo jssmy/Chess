@@ -9,7 +9,7 @@ namespace Chess
 {
     public class Figure
     {
-        public int ID { get; set; }
+        public string ID { get; set; }
         public int posX { get; set; }
         public int posY { get; set; }
         public int Width { get; set; }

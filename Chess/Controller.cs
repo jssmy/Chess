@@ -23,7 +23,7 @@ namespace Chess
 
         public void Select(int x, int y)
         {
-            board.selected(x,y);
+            board.select(x,y);
         }
     }
 }

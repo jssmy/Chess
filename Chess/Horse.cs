@@ -14,7 +14,7 @@ namespace Chess
                 {"X","-","-","-","X"},
                 {"-","X","-","X","-"},
             };
-
+            movePermited = new String[Arr.GetLength(0), Arr.GetLength(0)];
         }
     }
 }
